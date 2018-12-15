@@ -1,0 +1,4 @@
+var favicon=new Favico({
+    animation:'popFade'
+});
+favicon.badge(1);
